@@ -1,0 +1,13 @@
+*~
+target/
+\.idea/
+\.vscode/
+*.log
+*.iml
+/dbconnect-sbt/.sbtopts
+/pyspark-snippets/databricks_pyspark_helpers.egg-info/
+/pyspark-snippets/dist/
+__pycache__/
+.DS_Store
+/kafka-aad-auth/dependency-reduced-pom.xml
+dependency-reduced-pom.xml
